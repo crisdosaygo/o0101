@@ -4,3 +4,5 @@
 
 I've enjoyed programming since I was 10.
 
+Check out my [portfolio/blog](https://github.com/cris691/Blogfolio)
+
