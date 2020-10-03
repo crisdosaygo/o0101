@@ -1,10 +1,6 @@
-### Hi, I'm mxrch ! 👋
+### Hi, I'm Cris ! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=mxrch&show_icons=true&hide_border=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=cris691&show_icons=true&hide_border=true&theme=radical" />
 
-I've always been passionate about computers and hacking.\
-So I upload my tools here, often related to computer security.
+I've enjoyed programming since I was 10.
 
-📧 If you want to contact me, you can do it here :
-- Discord : mxrch#8507
-- Twitter : @mxrchreborn
