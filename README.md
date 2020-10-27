@@ -8,5 +8,5 @@ On this GitHub you'll see what I've done from 2017, through 2020.
 
 Check out my [portfolio/blog](https://github.com/c9fe/Blogfolio)
 
-![visitors+++](https://valar-hitcounter.valar.dev/count?name=lnsp&style=minimal)
+![visitors+++](https://valar-hitcounter.valar.dev/count?name=c9fe&style=minimal)
 
