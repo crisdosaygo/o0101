@@ -9,7 +9,7 @@
 <p align=center>
   I've enjoyed programming since I was 10, now it's 2020!
 <p align=center>
-  On this GitHub you'll see what I've done from 2017, through 2020.
+  On this GitHub you'll see the open-source I've done since 2017.
 <p align=center>
   Check out my <a href=https://github.com/c9fe/Blogfolio>BLOGFOLIO of Open Source Creative Work</a>
 <p align=center>
