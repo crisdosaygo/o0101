@@ -1,6 +1,7 @@
 ### Heya, I'm Cris ! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=c9fe&show_icons=true&hide_border=true&theme=radical&count_private=true" />
+![github contribution stats graphic](https://github-contribution-stats.vercel.app/api/?username=c9fe)
+<img alt="github rating stats graphic with alternate metrics" src="https://github-readme-stats.vercel.app/api?username=c9fe&show_icons=true&theme=blueberry&hide_border=true&count_private=true" />
 
 I've enjoyed programming since I was 10, now it's 2020!
 
