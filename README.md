@@ -1,4 +1,7 @@
+<p align=center><img src=https://api.kindspeech.org/v1/badge></p>
+
 <h2 align=center>Heya, I'm Cris ! 👋</h3>
+
 
 <p align=center>
   <img alt="github contribution stats graphic" src=https://github-contribution-stats.vercel.app/api/?username=c9fe>
