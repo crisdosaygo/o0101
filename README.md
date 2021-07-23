@@ -1,5 +1,3 @@
-<p align=center><img src=https://api.kindspeech.org/v1/badge></p>
-
 <h2 align=center>Heya, I'm Cris ! 👋</h3>
 
 
