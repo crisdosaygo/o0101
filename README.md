@@ -8,7 +8,9 @@
 </p>
 
 <p align=center>
-  I've enjoyed programming since I was 10, now it's 2020!
+  I've enjoyed programming since I was 10, now it's 2021!
+<p align=center>
+  I'm an amateur (programmer&&coder&&developer&&engineer&&computer scientist)--in the true sense of that word *amateur*: a lover. Of those things.
 <p align=center>
   On this GitHub you'll see the open-source I've done since 2017.
 <p align=center>
