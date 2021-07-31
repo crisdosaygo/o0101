@@ -1,4 +1,5 @@
-<h2 align=center>Heya, I'm Cris ! 👋</h3>
+<h1 align=center>Heya, I'm Cris ! 👋</h1>
+<h2 align=center>*Amateur attitude*</h2>
 
 
 <p align=center>
@@ -10,7 +11,7 @@
 <p align=center>
   I've enjoyed programming since I was 10, now it's 2021!
 <p align=center>
-  I'm an amateur (programmer&&coder&&developer&&engineer&&computer scientist)--in the true sense of that word *amateur*: a lover. Of those things.
+  I have an amateur attitude toward (programming && coding && developing && engineering && computer sciencing)--in the true sense of that word *amateur*: a love. Of those things.
 <p align=center>
   On this GitHub you'll see the open-source I've done since 2017.
 <p align=center>
