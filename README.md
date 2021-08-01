@@ -1,4 +1,4 @@
-<h1 align=center>Heya, I'm Cris ! 👋</h1>
+<h1 align=center>Hello, I'm Cris ! 👋👋👋 :smile:</h1>
 <h2 align=center><i>Amateur attitude</i></h2>
 
 
