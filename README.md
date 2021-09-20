@@ -4,11 +4,10 @@
 
 <p align=center>
   <img align=center alt="github rating stats graphic with alternate metrics" src="https://github-readme-stats.vercel.app/api?username=i5ik&show_icons=true&theme=blueberry&hide_border=true&count_private=true">
-  <hr>
-   <img align=center alt="github contribution stats graphic" src=https://github-contribution-stats.vercel.app/api/?username=i5ik>
 </p>
 
 <hr>
+
 
 <p align=center>
   I've enjoyed programming since I was 10, now it's 2021!
