@@ -3,9 +3,10 @@
 
 
 <p align=center>
-  <img alt="github contribution stats graphic" src=https://github-contribution-stats.vercel.app/api/?username=i5ik>
-  <br>
+    <hr>
   <img alt="github rating stats graphic with alternate metrics" src="https://github-readme-stats.vercel.app/api?username=i5ik&show_icons=true&theme=blueberry&hide_border=true&count_private=true">
+  <br>
+   <img alt="github contribution stats graphic" src=https://github-contribution-stats.vercel.app/api/?username=i5ik>
 </p>
 
 <p align=center>
