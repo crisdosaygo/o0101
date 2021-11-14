@@ -1,4 +1,4 @@
-<h1 align=center>Hello, I'm Cris ! 
+<h1 align=center>You can see some of my work here
 
 
 <p align=center>
