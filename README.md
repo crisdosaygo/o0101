@@ -1,4 +1,4 @@
-<h1 align=center>Selected works, 2017 &mdash; now</h1>
+<h1 align=center>Selected works<br>2017 &mdash; now</h1>
 
 
 <p align=center>
