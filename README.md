@@ -6,7 +6,7 @@
 </p>
 
 <p align=center>
-  <a href=https://leetcode.com/dosyago/>LeetCode</a> | <a href=https://dosyago.com>DOSYAGO Inc.</a> | <a href=https://openprocessing.org/user/15252?view=sketches>OpenProcessing</a> | <a href=https://github.com/crisdosyago?tab=repositories&q=&type=&language=&sort=stargazers>Most starred repositories</a>
+<a href=https://openprocessing.org/user/15252?view=sketches>OpenProcessing</a> | <a href=https://github.com/crisdosyago?tab=repositories&q=&type=&language=&sort=stargazers>Most starred repositories</a> | <a href=https://dosyago.com>DOSYAGO Inc.</a> | <a href=https://leetcode.com/dosyago/>LeetCode</a> | <a href=https://linkedin.com/crisdosyago>LinkedIn</a> 
 </p>
 
 <hr>
