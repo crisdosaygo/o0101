@@ -1,4 +1,4 @@
-<h1 align=center style="font-variant:small-caps;">works</h1><h2 align=center>2011 &mdash; now</h2>
+<h1 align=center style="font-variant:small-caps;">choose joy</h1><h2 align=center>forever &mdash; forever</h2>
 
 <!--
 <p align=center>
