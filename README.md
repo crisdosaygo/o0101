@@ -12,7 +12,7 @@
 </p>
 <p align=center>
   <br>
-  <img align=center alt="Retro Profile Hit Counter" src=https://profile-counter.glitch.me/o0101/count.svg?>
+  <h1 align=center style="text-align:center;">❤️</h1>
 </p>
 
 <br>
