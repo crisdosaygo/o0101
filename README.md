@@ -1,4 +1,4 @@
-<h1 align=center style="font-variant:small-caps;">choose joy</h1><h2 align=center>forever &mdash; forever</h2>
+<h1 align=center style="font-variant:small-caps;">choose joy</h1><h1 align=center>LOVE OVER FEAR</h1><h2 align=center>forever &mdash; forever</h2>
 
 <p align=center>
   <img align=center alt="github rating stats graphic with alternate metrics" src="https://github-readme-stats.vercel.app/api?username=o0101&show_icons=true&theme=blueberry&hide_border=true&count_private=true">
