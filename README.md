@@ -17,6 +17,7 @@
 
 <br>
 
+<p align=center>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -28,4 +29,8 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+</p>
 
+<p align=center>
+<img src=places.png title="Places I've visited so far" alt="Places I have visited so far.">
+</p>
