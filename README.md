@@ -32,5 +32,5 @@
 </p>
 
 <p align=center>
-<img src=places.png title="Places I've visited so far" alt="Places I have visited so far.">
+<img src=map.png title="Places I've visited so far" alt="Places I have visited so far.">
 </p>
